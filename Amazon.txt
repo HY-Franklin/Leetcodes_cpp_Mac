@@ -1,0 +1,31 @@
+Amazon Online Assessment 2019
+Amazon OA2 Questions 2019
+
+
+Critical Routers NEW
+Product Suggestions NEW
+Find Top N Competitors NEW
+Zombie Infection NEW   ONLINE JUDGE
+Movies on Flight ⭐
+Treasure Island I ⭐
+Treasure Island II ⭐ ⭐ ⭐
+K Nearest Post Offices ⭐ ⭐
+Subtree: Maximum Average Node ⭐
+Amazon’s Sort Center ⭐
+Most Common Words ⭐
+Log File ⭐
+Roll Dice ⭐
+Min Cost to Connect All Nodes (Minimum Spanning Tree I) ⭐ ⭐ ⭐
+Min Cost to Repair Edges (Minimum Spanning Tree II) ⭐ ⭐ ⭐ ONLINE JUDGE
+Cell State After N Days ⭐
+Move The Obstacle ⭐
+Optimize Memory Usage ⭐
+Connect Ropes (/Merge Files) ⭐ ONLINE JUDGE
+Prioritize Orders ⭐
+Shopkeeper Sale ⭐ ⭐
+Longest String Made Up Of Only Vowels ⭐ ⭐
+Longest String Without 3 Consecutive Characters ⭐ ⭐
+Min Cost To Add New Roads ⭐ ⭐ ⭐ ONLINE JUDGE
+Favorite Genres ⭐
+Data Center Cirtical Connections (Minimum Spanning Tree III) ⭐⭐⭐
+
